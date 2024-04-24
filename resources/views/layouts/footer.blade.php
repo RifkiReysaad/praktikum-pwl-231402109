@@ -1,4 +1,4 @@
-<footer class="footer footer-center p-4 bg-base-300 text-base-content bottom-0 absolute ">
+<footer class="footer footer-center p-4 bg-base-300 text-base-content">
     <aside>
       <p>Copyright © 2024 - All right reserved by Rifki Reysaad Bangun</p>
     </aside>

@@ -7,6 +7,22 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>To Do List</title>
   @vite('resources/css/app.css')
+  <style>
+    /* Add custom CSS for layout adjustments */
+    body {
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+    .content {
+      flex: 1;
+    }
+
+    .footer {
+      flex-shrink: 0;
+    }
+  </style>
 </head>
 
 <body>
